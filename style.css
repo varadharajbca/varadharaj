@@ -1,0 +1,576 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dark-header {
+    background-color: #333; /* Dark header background color */
+    padding: 10px 0;
+}
+
+.logo a {
+    color: #fff; /* Logo text color */
+    text-decoration: none;
+    font-size: 50px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 60px;
+}
+
+nav ul li a {
+    color: #fff; /* Navigation link color */
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.cta-button .btn {
+    background-color: #ff9900; /* Button background color */
+    color: #222; /* Button text color */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 40px;
+    transition: background-color 0.3s;
+}
+
+.cta-button .btn:hover {
+    background-color: #ffcc00; /* Button background color on hover */
+}
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.hero {
+    background-image: url('image\ 1/1rem'); /* Replace with your actual hero image */
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-content {
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 500px;
+}
+
+p {
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
+.cta-button {
+    background-color: #ff9900; /* Button background color */
+    color: #222; /* Button text color */
+    padding: 10px 20px;
+    border: navy;
+    border-radius: 5px;
+    text-decoration: chartreuse;
+    font-size: 27px;
+    transition: background-color 0.3s;
+}
+
+.cta-button:hover {
+    background-color: #ffcc00; /* Button background color on hover */
+}
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.featured-books {
+    background-color: #333; /* Dark section background color */
+    padding: 40px 0;
+}
+
+h2 {
+    text-align: center;
+    font-size: 37px;
+    margin-bottom: 30px;
+}
+
+.book-card {
+    background-color: #444; /* Book card background color */
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h3 {
+    font-size: 46px;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 45px;
+    margin: 10px 0;
+}
+
+.cta-button {
+    background-color: #ff9900; /* Button background color */
+    color: #222; /* Button text color */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 43px;
+    transition: background-color 0.3s;
+}
+
+.cta-button:hover {
+    background-color: #ffcc00; /* Button background color on hover */
+}
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about-us {
+    background-color: #333; /* Dark section background color */
+    padding: 40px 0;
+}
+
+h2 {
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.about-content {
+    flex: 1;
+}
+
+.about-content p {
+    font-size: 27px;
+    margin-bottom: 20px;
+}
+
+.about-image {
+    flex: 1;
+}
+
+.about-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.cta-button {
+    background-color: #ff9900; /* Button background color */
+    color: #222; /* Button text color */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 23px;
+    display: inline-block;
+    transition: background-color 0.3s;
+}
+
+.cta-button:hover {
+    background-color: #ffcc00; /* Button background color on hover */
+}
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.blog-section {
+    background-color: #333; /* Dark section background color */
+    padding: 40px 0;
+}
+
+h2 {
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.blog-post {
+    background-color: #444; /* Blog post background color */
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+h3 {
+    font-size: 25px;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 26px;
+    margin: 10px 0;
+}
+
+.read-more-link {
+    color: #ff9900; /* Link color */
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.read-more-link:hover {
+    color: #ffcc00; /* Link color on hover */
+}
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact-section {
+    background-color: #333; /* Dark section background color */
+    padding: 40px 0;
+}
+
+h2 {
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.contact-info {
+    flex: 1;
+}
+
+.contact-info p {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.contact-info ul {
+    list-style: none;
+}
+
+.contact-info ul li {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.contact-form {
+    flex: 1;
+}
+
+.contact-form h3 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.contact-form form {
+    display: flex;
+    flex-direction: column;
+}
+
+input,
+textarea {
+    margin: 10px 0;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+button {
+    background-color: #ff9900; /* Button background color */
+    color: #222; /* Button text color */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 18px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #ffcc00; /* Button background color on hover */
+}
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dark-footer {
+    background-color: #333; /* Dark footer background color */
+    padding: 20px 0;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+}
+
+.footer-logo a {
+    color: #fff; /* Logo text color */
+    text-decoration: none;
+    font-size: 29px;
+}
+
+.footer-links ul {
+    list-style: none;
+    display: flex;
+}
+
+.footer-links ul li {
+    margin-right: 20px;
+}
+
+.footer-links ul li a {
+    color: #fff; /* Footer link color */
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.footer-social ul {
+    list-style: none;
+    display: flex;
+}
+
+.footer-social ul li {
+    margin-right: 20px;
+}
+
+.footer-social ul li a {
+    color: #ff9900; /* Social media link color */
+    text-decoration: none;
+    font-size: 29px;
+}
+
+/* Add FontAwesome for social media icons */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css');
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.testimonials {
+    background-color: #333; /* Dark section background color */
+    padding: 40px 0;
+}
+
+h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.testimonial-card {
+    background-color: #444; /* Testimonial card background color */
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.testimonial-text p {
+    font-size: 25px;
+}
+
+.testimonial-author img {
+    max-width: 100px;
+    height: auto;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.testimonial-author p {
+    font-size: 34px;
+}
+
+.testimonial-author strong {
+    display: block;
+    font-size: 28px;
+}
+
+/* Add more testimonials and styles as needed */
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta-section {
+    background-color: #333; /* Dark section background color */
+    padding: 40px 0;
+    text-align: center;
+}
+
+h2 {
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+cta-content p {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.cta-button {
+    background-color: #ff9900; /* Button background color */
+    color: #222; /* Button text color */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 28px;
+    transition: background-color 0.3s;
+}
+
+.cta-button:hover {
+    background-color: #ffcc00; /* Button background color on hover */
+}
